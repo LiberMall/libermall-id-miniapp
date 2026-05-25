@@ -21,7 +21,7 @@
 A Tier-1 Telegram Mini App built on the [Telegram WebApp SDK](https://core.telegram.org/bots/webapps). It lets users:
 
 - See their Libermall ID profile (Telegram name, id, premium badge, username)
-- Open every product in the [Libermall ecosystem](https://libermall.com) with one tap — [DEX](https://dex.libermall.com), [PayLibermall](https://pay.libermall.com), [Libermall Card](https://card.libermall.com), [Sites.Reviews](https://sites.reviews), [TonChat AI](https://tonchat.ai), [TON.CEO](https://ton.ceo), [Marketplace](https://libermall.com)
+- Open every product in the [Libermall ecosystem](https://libermall.com) with one tap — [DEX](https://dex.libermall.com), [PayLibermall](https://pay.libermall.com), [Libermall Card](https://card.libermall.com), [Marketplace](https://libermall.com)
 - Manage profile, wallets, security from the same surface
 
 No build step, no JavaScript framework, no bundler. Just `index.html`, `app.css`, `app.js` — served straight from nginx.
@@ -192,6 +192,6 @@ The `Libermall` wordmark and the M-shield logo are trademarks of Libermall and a
 
 **Part of the [Libermall ecosystem](https://libermall.com).**
 
-[Identity](https://id.libermall.com) · [DEX](https://dex.libermall.com) · [Pay](https://pay.libermall.com) · [Card](https://card.libermall.com) · [Reviews](https://sites.reviews) · [TonChat AI](https://tonchat.ai) · [TON.CEO](https://ton.ceo)
+[Identity](https://id.libermall.com) · [DEX](https://dex.libermall.com) · [Pay](https://pay.libermall.com) · [Card](https://card.libermall.com)
 
 </div>
